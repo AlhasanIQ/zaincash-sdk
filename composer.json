@@ -1,0 +1,34 @@
+{
+	"name": "alhasaniq/zaincash-sdk",
+	"description": "An Unofficial Object Oriented SDK for integrating ZainCash with php applications.",
+	"keywords": [
+		"zaincash",
+		"zain",
+		"payment",
+		"iraq",
+		"sdk"
+	],
+	"license": "MIT",
+	"type": "library",
+	"authors": [
+		{
+			"name": "Alhasan A. Al-Nasiry",
+			"email": "alhasan.nasiry+gh@gmail.com",
+			"homepage": "https://alhasaniq.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"firebase/php-jwt": "^4.0",
+		"guzzlehttp/guzzle": "~6.0"
+	},
+	"require-dev": {
+		"vlucas/phpdotenv": "^2.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"AlhasanIQ\\": "src/"
+		}
+	}
+}
