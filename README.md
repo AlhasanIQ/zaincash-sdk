@@ -12,7 +12,7 @@
   <h3 align="center">AlhasanIQ/ZainCashSDK</h3>
 
   <p align="center">
-    AN Unofficial SDK for ZainCash Iraq
+    AN Unofficial PHP SDK for ZainCash Iraq
     <br />
     <a href="https://github.com/alhasaniq/zaincash-sdk/tree/master/examples">Examples</a>
     ·
@@ -38,7 +38,7 @@
 
 ## About The Project
 
-This is an Un-Official SDK to integrate [ZainCash Iraq](https://zaincash.iq) with php applications
+This is an Unofficial PHP (Composer & PSR Compatible) SDK to integrate [ZainCash Iraq](https://zaincash.iq) with php applications.
 
 ### Motive:
 
@@ -55,6 +55,8 @@ Most of the code here is not properly tested and hasn't been touched since i wor
 Kindly, inspect the code closely and make sure it fits your needs.
 
 The code is provided as-is and no guarantees are given regarding functionality/security.
+
+While this project started when i used to work at ZainCash (2015-2016), I wrote all of this code on my own spare time.  
 
 ## Installation
 
