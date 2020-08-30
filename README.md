@@ -76,7 +76,7 @@ Modify your `composer.json` to add a repositories source and a require statement
 	],
 
 	"require": {
-		"alhasaniq/zaincash-sdk": "master"
+		"alhasaniq/zaincash-sdk": "dev-master"
 	}
 }
 ```
